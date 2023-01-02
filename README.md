@@ -1,5 +1,5 @@
 # Pearson-s-correlation-coefficient-T---Students-
-Small program that studies the correlation between two data columns using the Pearson correlation coefficient and the confidence intervals of the t-students tables
+Small program that studies the correlation between two data columns using the Pearson correlation coefficient and the confidence intervals of the t-students tables.
 
 The "datos.csv" file contains the columns that are going to be studied to see if they are correlated. The columns should be arranged in the same way as shown in the example.
 
